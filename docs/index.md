@@ -49,17 +49,17 @@ Investmentz is an android based platform that will allow its users to setup an a
 
 ## Stretch goals/possible enhancements 
 	
-	*a way users can log in to see not only a history of transactions but a list of currently open orders
+	*A way users can log in to see not only a history of transactions but a list of currently open orders
 	
-	*an indicator showing how much profit they earned yesterday, last week, last month, and last year.
+	*An indicator showing how much profit they earned yesterday, last week, last month, and last year.
 	
-	*an indicator that runs a calculaton showing the estimated profit/loss from an open trade if it was closed right now, as well as profit margins if a stop or limit order was used. 
+	*An indicator that runs a calculaton showing the estimated profit/loss from an open trade if it was closed right now, as well as profit margins if a stop or limit order was used. 
 	
-	*software that will help you report your income and properly fill out tax paperwork. 
+	*Software that will help you report your income and properly fill out tax paperwork. 
 
 
 	For these last couple I do not plan to work on them in school, but I plan on implementing them sometime in the future as I continue to develop this platform. 
 	
-	*paramaters that traders can adjust, to set up a system that executes buy/sell orders based on pre-determined conditions, and will execute those trades even when the user is offline. 
+	*Paramaters that traders can adjust, to set up a system that executes buy/sell orders based on pre-determined conditions, and will execute those trades even when the user is offline. 
 	
 	*A bot that has the paramaters already programed in with a set of rules that has been tested to be consistently profitable. Including software with break even paramaters and the ability to calculate your current profit/loss margin while taking into account transactional fees and taxes. Lastly the bot should report its earnings to the user on a trade by trade basis via the app, and calculate how much profit has been earned daily, weekly, monthly, and yearly. 
