@@ -21,7 +21,7 @@ Investmentz is an android based platform that will allow its users to setup an a
 	
 ## Functionality
 
-* The ability to set up a unique username and password, as well as tying that into a cell phone number, and possibly setting up two factor authentication. 
+* The ability to set up a unique username and password, as well as tying that into a cell phone number, and possibly setting up two-factor authentication. 
 	
 * Access live market data.
 	
